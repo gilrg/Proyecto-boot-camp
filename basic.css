@@ -24,3 +24,4 @@ border-radius: 2px;
 text-decoration: double;
 background-color: brown;}
 li a:hover {color: cadetblue;}
+li a::after { content: "    |     ";}
