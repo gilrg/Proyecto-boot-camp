@@ -1,4 +1,4 @@
-*{box-sizing: border-box;}
+body {background-color: gold;}
 p {
     color: darkgreen;
     font-size: 40px;
